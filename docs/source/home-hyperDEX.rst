@@ -19,3 +19,4 @@ Here you will find more information about HyperDEX
 
    hyperDEX/enhancement-record/*
    hyperDEX/change-log-hyperDEX   
+   hyperDEX/hyperdex-enable-currency
