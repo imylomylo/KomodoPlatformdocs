@@ -2,6 +2,9 @@
 Change Log (Agama-Desktop)
 **************************
 
+.. contents:: Links
+   :depth: 3
+
 v0.2.41
 =======
 

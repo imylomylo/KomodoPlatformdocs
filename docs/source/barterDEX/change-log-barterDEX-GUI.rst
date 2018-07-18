@@ -2,6 +2,9 @@
 Change Log (BarterDEX-GUI)
 **************************
 
+.. contents:: Links
+   :depth: 3
+
 v1.1.0
 ======
 
