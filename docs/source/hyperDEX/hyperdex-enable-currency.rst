@@ -15,5 +15,5 @@ How to
 
 The process can be seen in the gif below:
 
-![Komodo DEX App HyperDEX](https://raw.githubusercontent.com/imylomylo/KomodoPlatformdocs/master/contrib/images/hyperdex-enable-currency.gif)
+![Komodo DEX App HyperDEX](https://raw.githubusercontent.com/imylomylo/KomodoPlatformdocs/master/docs/source/contrib/images/hyperdex-enable-currency.gif)
 
